@@ -1,16 +1,21 @@
 # Python desde cero 🐍
 
-Este repositorio contiene mi primer ejercicio en Python.
+Este repositorio contiene ejercicios prácticos que realizo mientras aprendo Python desde cero.
 
-## 📚 Qué practiqué
-- Uso de input y print
-- Strings (upper, lower, replace, strip)
-- Contar palabras y letras
-- Slicing
-- Uso básico de bucles for
+## Ejercicios
 
-## ▶️ Cómo ejecutar
-1. Clona el repositorio
-2. Ejecuta el archivo .py con Python
+### 1. Manipulación de strings
+- Uso de input
+- Métodos de string (.upper, .lower, .split)
+- Conteo de palabras y letras
 
-Este proyecto forma parte de mi aprendizaje en Python desde cero.
+### 2. Analizador de contraseña
+Programa que evalúa si una contraseña es segura verificando:
+- Longitud mínima
+- Uso de mayúsculas
+- Uso de minúsculas
+- Uso de números
+- Uso de símbolos (string.punctuation)
+
+## Objetivo
+Aprender Python de forma progresiva y documentar mi avance.
